@@ -1,0 +1,64 @@
+GET http://localhost:8765/currency-exchange-service/currency-exchange/USD/to/NIS
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-18T070944.200.json
+
+###
+
+GET http://localhost:8765/currency-exchange-service/currency-exchange/USD/to/NIS
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-18T070841.200.json
+
+###
+
+GET http://localhost:8765/currency-exchange-service/currency-exchange/USD/to/NIS
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-18T070802.200.json
+
+###
+
+GET http://localhost:8765/currency-exchange-service/currency-exchange/USD/to/NIS
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-18T070340.200.json
+
+###
+
+GET http://localhost:8765/currency-exchange-service/currency-exchange/USD/to/NIS
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-18T070337.200.json
+
+###
+
+GET http://localhost:8765/currency-exchange-service/currency-exchange/USD/to/NIS
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-18T070333.200.json
+
+###
+
+GET http://localhost:8765/currency-exchange-service/currency-exchange/USD/to/NIS%20
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-18T070319.500.json
+
+###
+
+GET http://localhost:8765/currency-exchange-service/currency-exchange/USD/to/NIS%20
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-18T070250.500.json
+
+###
+
