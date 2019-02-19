@@ -1,3 +1,35 @@
+GET http://localhost:8765/currency-conversion-service/currency-converter-feign/form/NIS/to/USD/1000
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-19T072236.200.json
+
+###
+
+GET http://localhost:8765/currency-conversion-service/currency-converter-feign/form/NIS/to/USD/1000
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-19T071809.200.json
+
+###
+
+GET http://localhost:8765/currency-conversion-service/currency-converter-feign/form/NIS/to/USD/1000
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-19T071717.200.json
+
+###
+
+GET http://localhost:8765/currency-conversion-service
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-02-19T071650.404.json
+
+###
+
 GET http://localhost:8765/currency-exchange-service/currency-exchange/USD/to/NIS
 Accept: */*
 Cache-Control: no-cache
